@@ -24,9 +24,9 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 
 ## Screenshots
 <p align="center">
-  <img src="/screenshots/screenshot1.png.jpeg" alt="Home Screen" width="300">
-  <img src="/screenshots/screenshot2.png.jpeg" alt="Question Screen" width="300">
-  <img src="/screenshots/screenshot3.png.jpeg" alt="Result Screen" width="300">
+  <img src="/screenshots/screenshot1.png.jpeg" alt="Home Screen" width="150">
+  <img src="/screenshots/screenshot2.png.jpeg" alt="Question Screen" width="150">
+  <img src="/screenshots/screenshot3.png.jpeg" alt="Result Screen" width="150">
 </p>
 
 <p align="center">
@@ -38,7 +38,12 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 
 To run the Flutter Quiz App on your local machine, follow these steps:
 
-1. Clone the repository:
+To Download The Apk:
+
+   ```bash
+   https://drive.google.com/file/d/1qfDh4iNprfA4y1FRcqGOJ2angb7YzU8f/view?usp=sharing
+
+ Clone the repository:
 
     ```bash
-    git clone https://github.com/your
+    git clone https://github.com/Jangle-Parth/QuizApp.git
