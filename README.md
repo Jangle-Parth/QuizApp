@@ -54,4 +54,4 @@ Once the app is running, you can:
 - Answer multiple-choice questions.
 - View your score at the end of the quiz.
 
-Feel free to explore different features and
+Feel free to add different features
