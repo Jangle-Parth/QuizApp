@@ -36,14 +36,22 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 
 ## Installation
 
-To run the Flutter Quiz App on your local machine, follow these steps:
-
 To Download The Apk:
 
    ```bash
    https://drive.google.com/file/d/1qfDh4iNprfA4y1FRcqGOJ2angb7YzU8f/view?usp=sharing
+   ```
+To Clone The Repository on Your Machine:
 
- Clone the repository:
+  ```bash
+   git clone https://github.com/Jangle-Parth/QuizApp.git
+   ```
 
-    ```bash
-    git clone https://github.com/Jangle-Parth/QuizApp.git
+## Usage
+Once the app is running, you can:
+
+- Start a new quiz.
+- Answer multiple-choice questions.
+- View your score at the end of the quiz.
+
+Feel free to explore different features and
