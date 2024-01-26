@@ -30,7 +30,7 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 </p>
 
 <p align="center">
-  <em>Home Screen            </em> | <em>          Question Screen          </em> | <em>              Result Screen           </em>
+  <em>Home Screen</em> | <em>Question Screen</em> | <em>Result Screen</em>
 </p>
 
 
