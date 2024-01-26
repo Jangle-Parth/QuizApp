@@ -24,7 +24,7 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](/screenshots/screenshot1.png.jpeg)
 *Home Screen*
 
 ![Screenshot 2](/screenshots/screenshot2.png)
