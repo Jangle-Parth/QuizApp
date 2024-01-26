@@ -8,8 +8,6 @@ Welcome to the Flutter Quiz App! Test and enhance your knowledge of Flutter with
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
