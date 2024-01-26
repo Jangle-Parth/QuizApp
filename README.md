@@ -23,14 +23,17 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 - User-friendly interface for a seamless quiz-taking experience.
 
 ## Screenshots
+<p align="center">
+  <img src="/screenshots/screenshot1.png.jpeg" width="600" alt="Screenshot">
+</p>
 
 ![Screenshot 1](/screenshots/screenshot1.png.jpeg)
 *Home Screen*
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](/screenshots/screenshot2.png.jpeg)
 *Question Screen*
 
-![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 3](/screenshots/screenshot3.png.jpeg)
 *Result Screen*
 
 ## Installation
