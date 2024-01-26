@@ -38,6 +38,17 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
   <p>Result Screen</p>
 </div>
 
+<p align="center">
+  <img src="/screenshots/screenshot1.png.jpeg" alt="Home Screen" width="300">
+  <img src="/screenshots/screenshot2.png.jpeg" alt="Question Screen" width="300">
+  <img src="/screenshots/screenshot3.png.jpeg" alt="Result Screen" width="300">
+</p>
+
+<p align="center">
+  <em>Home Screen</em> | <em>Question Screen</em> | <em>Result Screen</em>
+</p>
+
+
 ## Installation
 
 To run the Flutter Quiz App on your local machine, follow these steps:
