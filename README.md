@@ -24,8 +24,6 @@ This Flutter Quiz App is designed to challenge your understanding of Flutter con
 
 ## Screenshots
 
-Include screenshots or GIFs of your app in action to give users a visual preview of what to expect. For example:
-
 ![Screenshot 1](/screenshots/screenshot1.png)
 *Home Screen*
 
